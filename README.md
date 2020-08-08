@@ -1,6 +1,6 @@
 # MOOCbase
 
-Contributors:
+## Contributors:
 * CS186 course staff -  bare-bones database implementation, which supports
 executing simple transactions in series
 * Kaelan Nettleship - added support for B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to support concurrent execution of transactions, and database recovery.
