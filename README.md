@@ -5,6 +5,9 @@
 executing simple transactions in series
 * Kaelan Nettleship - added support for B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to support concurrent execution of transactions, and database recovery.
 
+## Purpose:
+A fully operational Relational Database Management System based on PostGres SQL that offers similar functionality including table creation, table joins, complex querying. MOOCbase also supports use for multiple users (concurrency) and recovery in the case of a system crash. 
+
 
 ## The code
 
